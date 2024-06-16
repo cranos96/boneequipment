@@ -1,0 +1,17 @@
+{
+  "itemGroup.boneequipment.tab": "Equipaggiamento di ossa",
+
+  "item.boneequipment.bone_helmet": "Elmo di ossa",
+  "item.boneequipment.bone_chestplate": "Corazza di ossa",
+  "item.boneequipment.bone_leggings": "Gambiere di ossa",
+  "item.boneequipment.bone_boots": "Stivali di ossa",
+
+  "item.boneequipment.bone_pickaxe": "Piccone di ossa",
+  "item.boneequipment.bone_axe": "Ascia di ossa",
+  "item.boneequipment.bone_hoe": "Zappa di ossa",
+  "item.boneequipment.bone_shovel": "Pala di ossa",
+
+  "item.boneequipment.bone_sword": "Spada di ossa",
+
+  "item.boneequipment.bone_horse_armor": "Bardatura di ossa"
+}
